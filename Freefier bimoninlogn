@@ -1,0 +1,6 @@
+# pishing
+pishing attack.fscbook inpassword
+$apt update 
+apt upgrade
+apt install python
+apt python2
